@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.MyTheme" parent="Theme.AppCompat">
+        <!-- Here we setting appcompat’s actionBarStyle -->
+        <!--<item name="actionBarStyle">@style/MyActionBarStyle</item>
+
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionBar">false</item>-->
+    </style>
+
+    <!--<style name="MyActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/blue</item>
+    </style>-->
+
+</resources>
